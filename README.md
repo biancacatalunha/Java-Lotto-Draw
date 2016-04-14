@@ -1,5 +1,5 @@
 # Lotto
-Java Assignment - Lotto Machine - Semester 1
+Java Assignment - Lotto Draw - Semester 1
 
 This program simulates a Lotto draw.
 
